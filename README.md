@@ -4,9 +4,9 @@
   
     - Thresholding
     - Binairisation
-    -Dynamic cropping
-    -Image color processing
-    -Contour detection
-    -Object detection
-    -Errosion and delatation
-    -Color spaces in image processing    
+    - Dynamic cropping
+    - Image color processing
+    - Contour detection
+    - Object detection
+    - Errosion and delatation
+    - Color spaces in image processing    
